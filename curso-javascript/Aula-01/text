@@ -1,4 +1,8 @@
-Aula-01:Organização do Ambiente Windows
-Instalação do vs:https://code.visualstudio.com/download
-Instalação do node:https://nodejs.org/en/download/
-Instalação do chrome:https://www.google.com/intl/pt-BR/chrome/
+# Aula-01:Organização do Ambiente Windows
+    Instalação do vs:https://code.visualstudio.com/download
+    Instalação do node:https://nodejs.org/en/download/
+    Instalação do chrome:https://www.google.com/intl/pt-BR/chrome/
+
+# Requisitos
+    Code Runner (Extensão do VSCode)
+    Live Server (Extensão do VSCode)

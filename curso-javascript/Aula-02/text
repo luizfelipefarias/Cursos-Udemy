@@ -1,5 +1,9 @@
 #Intalação do NodeJS, VSCode e Google Chrome no Ubuntu
 
+# Requisitos
+# Code Runner (Extensão do VSCode)
+# Live Server (Extensão do VSCode)
+
 # Atualizando pacotes
 sudo apt update -y
 
@@ -22,3 +26,10 @@ sudo snap install code --classic
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 sudo rm google-chrome-stable_current_amd64.deb
+
+# Verificando versões
+node -v
+npm -v
+code -v
+google-chrome --version
+
