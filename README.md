@@ -45,4 +45,7 @@ O conteúdo está organizado em pastas, com o nome de cada curso. Dentro de cada
 Sinta-se à vontade para explorar os projetos e me dar um feedback. Conecte-se comigo no LinkedIn para trocarmos experiências\!
 
   * **Luiz Felipe**
-  * **[https://www.linkedin.com/in/luiz-felipe-farias-395a44234](https://www.linkedin.com/in/luiz-felipe-farias-395a44234/)**
+
+**[https://www.linkedin.com/in/luiz-felipe-farias-395a44234](https://www.linkedin.com/in/luiz-felipe-farias-395a44234/)**
+
+**[https://www.linkedin.com/in/luiz-felipe-farias-395a44234](https://www.google.com/search?q=https://www.linkedin.com/in/luiz-felipe-farias-395a44234)**
