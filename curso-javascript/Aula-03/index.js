@@ -5,14 +5,14 @@
 // Exemplo simples de saída no console
 console.log('Hello World!!');
 
-//Observação: console.log() é uma função que exibe mensagens no 
-// console do navegador ou do ambiente de execução JavaScript.
-// É comumente usado para depuração 
-// e exibição de informações durante 
-// o desenvolvimento de código.
-// Dentro dos parênteses, você pode passar valores, 
-// variáveis ou expressões que deseja exibir no console.
-//Number= numero e em javaScript não existe o tipo inteiro e float
+/*Observação: console.log() é uma função que exibe mensagens no 
+console do navegador ou do ambiente de execução JavaScript.
+É comumente usado para depuração 
+e exibição de informações durante 
+o desenvolvimento de código.
+Dentro dos parênteses, você pode passar valores, 
+variáveis ou expressões que deseja exibir no console.
+Number= numero e em javaScript não existe o tipo inteiro e float*/
 
 
 // Exemplo simples de saída no console
