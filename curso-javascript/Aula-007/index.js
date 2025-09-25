@@ -1,7 +1,7 @@
 //Regras para variaveis const
 //Variavel recebe nomes significativos
 //Não pode criar varivel com palavras reservadas
-//ex:let let,let console
+//ex:const let,const console
 //Variavel não pode conter espaço,traço e não podem começar com numero
 //Indicado usar camelCase
 //Case-sensitive
