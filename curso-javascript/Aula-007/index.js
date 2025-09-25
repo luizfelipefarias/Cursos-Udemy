@@ -1,12 +1,12 @@
-//Regras para variaveis const
-//Variavel recebe nomes significativos
-//Não pode criar varivel com palavras reservadas
-//ex:const let,const console
-//Variavel não pode conter espaço,traço e não podem começar com numero
-//Indicado usar camelCase
-//Case-sensitive
-//ex:nomeComposto diferente de nomecomposto
-//Não podemos redeclarar variveis com const
+/*Regras para variaveis const
+Variavel recebe nomes significativos
+Não pode criar varivel com palavras reservadas
+ex:const let,const console
+Variavel não pode conter espaço,traço e não podem começar com numero
+Indicado usar camelCase
+Case-sensitive
+ex:nomeComposto diferente de nomecomposto
+Não podemos redeclarar variveis com const*/
 
 const nome ='João'//Precisa sempre iniciar 
 //console.log('nome')
