@@ -20,7 +20,7 @@ const num2 = '10';
 const resultado = 5 + 10;
 let resultadoDuplicado= resultado * 2
 console.log(resultadoDuplicado)
-resultadoDuplicado= resultado *3
+resultadoTriplicado= resultado *3
 console.log(resultadoDuplicado) 
 
 //Como saber o tipo de dado
