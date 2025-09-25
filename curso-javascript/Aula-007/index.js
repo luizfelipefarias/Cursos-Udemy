@@ -21,7 +21,7 @@ const resultado = 5 + 10;
 let resultadoDuplicado= resultado * 2
 console.log(resultadoDuplicado)
 resultadoTriplicado= resultado *3
-console.log(resultadoDuplicado) 
+console.log(resultadoTriplicado) 
 
 //Como saber o tipo de dado
 console.log(typeof num1 )
